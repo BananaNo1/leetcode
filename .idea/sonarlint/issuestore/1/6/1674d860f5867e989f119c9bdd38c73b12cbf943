@@ -1,0 +1,6 @@
+
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(™ä–ûÿÿÿÿ8ú¶Ô ¾-
+‚squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÓÖĞ³ÿÿÿÿÿ8™…Î ¾-
+Ssquid:S1751#"5Remove this "break" statement or make it conditional.(›ûä·8™…Î ¾-
+|squid:S1488)"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ÿ°‹ÿ8™…Î ¾-
