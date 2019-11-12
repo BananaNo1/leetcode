@@ -9,7 +9,7 @@ package simple;
  **/
 public class IsPalindrome {
     /**
-     * 整数转字符串
+     * 整数转字符串(low)
      *
      * @param x
      * @return
@@ -33,14 +33,53 @@ public class IsPalindrome {
         return (x + "").equals(reversedStr);
     }
 
-
+    /**
+     * 首位和末位相比较
+     *
+     * @param x
+     * @return
+     */
     public static boolean isPalindrome2(int x) {
-
+        if (x < 0) {
+            return false;
+        }
+        int div = 1;
+        while (x / div >= 10) {
+            div *= 10;
+        }
+        while (x > 0) {
+            int left = x / div;
+            int right = x % 10;
+            if (left != right) {
+                return false;
+            }
+            x = (x % div) / 10;
+            div /= 100;
+        }
         return true;
     }
 
+    /**
+     * 反转一半
+     *
+     * @param x
+     * @return
+     */
+    public static boolean isPalindrome3(int x) {
+        if (x < 0 || (x % 10 == 0 && x != 0)) {
+            return false;
+        }
+        int result = 0;
+        while (result < x) {
+            int p = x % 10;
+            result = result * 10 + p;
+            x /= 10;
+        }
+        return x == result || x == result / 10;
+    }
+
     public static void main(String[] args) {
-        int x = 1221;
-        System.out.println(isPalindrome(x));
+        int x = 10;
+        System.out.println(isPalindrome2(x));
     }
 }

@@ -28,7 +28,6 @@ public class IsValid {
                 if (stack.empty()) {
                     return false;
                 }
-//                char topElement = stack.empty() ? '#' : stack.pop();
                 char top = stack.pop();
                 if (map.get(c) != top) {
                     return false;
