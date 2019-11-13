@@ -24,6 +24,10 @@ public class MySqrt {
         return max;
     }
 
+    /**
+     * >> 有符号右移
+     * >>> 无符号右移
+     */
     public static int search(int[] nums, int target) {
         int len = nums.length;
         int left = 0;
