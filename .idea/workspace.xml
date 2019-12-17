@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="" />
+    <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="19-11-120">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07ce64de060e406246a9a67fa1087b7e918b2020" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07ce64de060e406246a9a67fa1087b7e918b2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1674d860f5867e989f119c9bdd38c73b12cbf943" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1674d860f5867e989f119c9bdd38c73b12cbf943" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52641674132323bcdff2ff9e470d32b5c2b36424" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52641674132323bcdff2ff9e470d32b5c2b36424" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f5195ffb7c7340bcab5d4630f7ee863d48610b4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f5195ffb7c7340bcab5d4630f7ee863d48610b4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89e78c1a0ed76344dd38115d9563b12c7d21c264" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89e78c1a0ed76344dd38115d9563b12c7d21c264" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/965ed4ab27051d6aa704381e8f81e01d459593b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/965ed4ab27051d6aa704381e8f81e01d459593b9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e52386020a489c1aff7fca16b7ec2fde93d4ae64" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e52386020a489c1aff7fca16b7ec2fde93d4ae64" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec68d45eb72cb84ad0ef614a11c6e1ba12a9c71e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec68d45eb72cb84ad0ef614a11c6e1ba12a9c71e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f06493d926e29f6d6d75742813f380a90c3f0ab1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f06493d926e29f6d6d75742813f380a90c3f0ab1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4510d8a0e18e0ab2adaa76a7011a12d3535fe73" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4510d8a0e18e0ab2adaa76a7011a12d3535fe73" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb9ff27ce5b498b49d19f6f5609624b2ec747ddc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb9ff27ce5b498b49d19f6f5609624b2ec747ddc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algro/ThinkJava/FinalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/ThinkJava/FinalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/CountAndSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/CountAndSay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/IsPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/IsValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/IsValid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/MergeTwoLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/MergeTwoLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/RemoveElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/RomanToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/RomanToInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/ThreeSum.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,31 +40,42 @@
     <session id="-1759514140">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.1" value="10" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="37" />
+          <entry key="gitignore" value="4" />
+          <entry key="java" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="37" />
+          <entry key="JAVA" value="94" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4419" />
+          <entry key="gitignore" value="20" />
+          <entry key="java" value="17439" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4419" />
+          <entry key="JAVA" value="17439" />
+          <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
     </session>
@@ -48,10 +83,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/simple/IsPalindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/medium/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="366">
+              <caret line="52" column="22" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="52" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#ThreeSum#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,23 +110,47 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/simple/Reverse.java" />
-        <option value="$PROJECT_DIR$/src/simple/RomanToInt.java" />
-        <option value="$PROJECT_DIR$/src/simple/LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/simple/IsValid.java" />
-        <option value="$PROJECT_DIR$/src/simple/MergeTwoLists.java" />
-        <option value="$PROJECT_DIR$/src/simple/RemoveDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/simple/RemoveElement.java" />
         <option value="$PROJECT_DIR$/src/simple/strStr.java" />
         <option value="$PROJECT_DIR$/src/simple/SearchInsert.java" />
-        <option value="$PROJECT_DIR$/src/simple/CountAndSay.java" />
         <option value="$PROJECT_DIR$/src/ThinkJava/ToyTest.java" />
         <option value="$PROJECT_DIR$/src/ThinkJava/SweetShop.java" />
         <option value="$PROJECT_DIR$/src/ThinkJava/FinalTest.java" />
         <option value="$PROJECT_DIR$/src/simple/IsPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/simple/RomanToInt.java" />
+        <option value="$PROJECT_DIR$/src/simple/IsValid.java" />
+        <option value="$PROJECT_DIR$/src/simple/MergeTwoLists.java" />
+        <option value="$PROJECT_DIR$/src/simple/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/simple/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/src/simple/CountAndSay.java" />
+        <option value="$PROJECT_DIR$/src/simple/MaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/simple/LengthOfLastWord.java" />
+        <option value="$PROJECT_DIR$/src/simple/PlusOne.java" />
+        <option value="$PROJECT_DIR$/src/simple/AddBinary.java" />
+        <option value="$PROJECT_DIR$/src/simple/MySqrt.java" />
+        <option value="$PROJECT_DIR$/src/simple/ClimbStairs.java" />
+        <option value="$PROJECT_DIR$/src/simple/DeleteDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/simple/Merge.java" />
+        <option value="$PROJECT_DIR$/src/simple/IsSameTree.java" />
+        <option value="$PROJECT_DIR$/src/simple/IsSymmetric.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/simple/MaxDepth.java" />
+        <option value="$PROJECT_DIR$/src/simple/LevelOrderBottom.java" />
+        <option value="$PROJECT_DIR$/src/difficult/FindMedianSortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/medium/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/medium/Convert.java" />
+        <option value="$PROJECT_DIR$/src/medium/MyAtoi.java" />
+        <option value="$PROJECT_DIR$/src/difficult/IsMatch.java" />
+        <option value="$PROJECT_DIR$/src/medium/MaxArea.java" />
+        <option value="$PROJECT_DIR$/src/medium/IntToRoman.java" />
+        <option value="$PROJECT_DIR$/src/simple/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/medium/ThreeSum.java" />
       </list>
     </option>
   </component>
@@ -263,11 +326,13 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,32 +345,26 @@
               <item name="algro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algro" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="SearchEverywhereHistoryKey" value="java.lang.reflect&#9;PSI&#9;JAVA://java.lang.reflect.ReflectAccess" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566288840636" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575019550673" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -319,9 +378,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SweetShop">
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.RemoveElement" />
+  <component name="RunManager" selected="Application.ThreeSum">
+    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Convert" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.LongestCommonPrefix" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -333,12 +405,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.SearchInsert" />
+    <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.MaxArea" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simple.*" />
+          <option name="PATTERN" value="medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,12 +418,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SweetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThinkJava.SweetShop" />
+    <configuration name="MyAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.MyAtoi" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThinkJava.*" />
+          <option name="PATTERN" value="medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,25 +431,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThinkJava.ToyTest" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.ThreeSum" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThinkJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="strStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.strStr" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simple.*" />
+          <option name="PATTERN" value="medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,19 +445,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveElement" />
-      <item itemvalue="Application.strStr" />
-      <item itemvalue="Application.SearchInsert" />
-      <item itemvalue="Application.SweetShop" />
-      <item itemvalue="Application.ToyTest" />
+      <item itemvalue="Application.Convert" />
+      <item itemvalue="Application.MyAtoi" />
+      <item itemvalue="Application.MaxArea" />
+      <item itemvalue="Application.LongestCommonPrefix" />
+      <item itemvalue="Application.ThreeSum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SweetShop" />
-        <item itemvalue="Application.ToyTest" />
-        <item itemvalue="Application.SearchInsert" />
-        <item itemvalue="Application.strStr" />
-        <item itemvalue="Application.RemoveElement" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.MaxArea" />
+        <item itemvalue="Application.MyAtoi" />
+        <item itemvalue="Application.Convert" />
       </list>
     </recent_temporary>
   </component>
@@ -418,17 +477,97 @@
       <workItem from="1565748131166" duration="121000" />
       <workItem from="1565751925861" duration="4276000" />
       <workItem from="1566283165468" duration="1801000" />
-      <workItem from="1573451866434" duration="955000" />
+      <workItem from="1573451866434" duration="14930000" />
+      <workItem from="1573544101314" duration="6269000" />
+      <workItem from="1573605689612" duration="11271000" />
+      <workItem from="1573696504818" duration="1216000" />
+      <workItem from="1573721404721" duration="4230000" />
+      <workItem from="1573726125039" duration="2116000" />
+      <workItem from="1573804972296" duration="5897000" />
+      <workItem from="1573863165068" duration="1185000" />
+      <workItem from="1574044166336" duration="4134000" />
+      <workItem from="1574238584200" duration="6883000" />
+      <workItem from="1574330590883" duration="1154000" />
+      <workItem from="1574412515846" duration="4401000" />
+      <workItem from="1574674890774" duration="3839000" />
+      <workItem from="1574761961376" duration="2186000" />
+      <workItem from="1575016001747" duration="3229000" />
+      <workItem from="1576572766932" duration="6210000" />
     </task>
+    <task id="LOCAL-00001" summary="19-11-12">
+      <created>1573544813217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573544813217</updated>
+    </task>
+    <task id="LOCAL-00002" summary="19-11-12">
+      <created>1573555656003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573555656003</updated>
+    </task>
+    <task id="LOCAL-00003" summary="19-11-13">
+      <created>1573641723337</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573641723337</updated>
+    </task>
+    <task id="LOCAL-00004" summary="19-11-15">
+      <created>1573806302649</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573806302649</updated>
+    </task>
+    <task id="LOCAL-00005" summary="19-11-13">
+      <created>1573806433792</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573806433792</updated>
+    </task>
+    <task id="LOCAL-00006" summary="19-11-15">
+      <created>1573813708271</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573813708271</updated>
+    </task>
+    <task id="LOCAL-00007" summary="19-11-20">
+      <created>1574247665557</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574247665557</updated>
+    </task>
+    <task id="LOCAL-00008" summary="19-11-25">
+      <created>1574679456775</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574679456776</updated>
+    </task>
+    <task id="LOCAL-00009" summary="19-11-29">
+      <created>1575019478131</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575019478131</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29332000" />
+    <option name="totallyTimeSpent" value="107527000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.23719676" visible="true" weight="0.26863754" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.23719676" visible="true" weight="0.15745501" />
       <window_info id="Structure" order="1" sideWeight="0.76280326" side_tool="true" weight="0.26542416" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -438,19 +577,19 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37466308" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3787062" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4331984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4871795" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32928476" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32928476" />
       <window_info anchor="bottom" id="Statistic" order="10" />
-      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="bottom" id="SonarLint" order="11" weight="0.32928476" />
       <window_info anchor="bottom" id="Problems" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32928476" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="15" />
       <window_info anchor="bottom" id="Messages" order="16" />
       <window_info anchor="bottom" id="Tail" order="17" />
@@ -470,6 +609,15 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="19-11-12" />
+    <MESSAGE value="19-11-13" />
+    <MESSAGE value="19-11-15" />
+    <MESSAGE value="19-11-20" />
+    <MESSAGE value="19-11-25" />
+    <MESSAGE value="19-11-29" />
+    <option name="LAST_COMMIT_MESSAGE" value="19-11-29" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -493,18 +641,6 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/simple/LongestCommonPrefix.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/simple/RemoveElement.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/simple/strStr.java</url>
           <line>36</line>
           <properties />
@@ -515,6 +651,54 @@
           <line>43</line>
           <properties />
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simple/IsPalindrome.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simple/RomanToInt.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simple/RemoveElement.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simple/MaxSubArray.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simple/LengthOfLastWord.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simple/PlusOne.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simple/ClimbStairs.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/MyAtoi.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -527,6 +711,11 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>str.charAt(0)-'0'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>c.getInterfaces0()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -534,85 +723,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="127" column="24" lean-forward="true" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple/RomanToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="809">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple/LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple/IsValid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="30" column="70" lean-forward="true" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple/MergeTwoLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple/RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-608">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple/strStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple/SearchInsert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -694,13 +804,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/RomanToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/simple/CountAndSay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/IsValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="58" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -715,10 +857,229 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple/IsPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/simple/strStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="125">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/SearchInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/LengthOfLastWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8400">
+          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1770">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/AddBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/MySqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/MergeTwoLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="890">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/PlusOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/ClimbStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/DeleteDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/IsSameTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4125">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/IsSymmetric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/MaxDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="769" column="7" lean-forward="true" selection-start-line="769" selection-start-column="7" selection-end-line="769" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/LevelOrderBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/difficult/FindMedianSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/Convert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/MyAtoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/difficult/IsMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="40" selection-end-column="19" />
+          <folding>
+            <element signature="docComment;class#MaxArea#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IntToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="docComment;class#IntToRoman#0" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="1696" column="15" selection-start-line="1696" selection-start-column="15" selection-end-line="1696" selection-end-column="15" />
+          <folding>
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="11" selection-start-line="11" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="52" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#ThreeSum#0" />
+          </folding>
         </state>
       </provider>
     </entry>
