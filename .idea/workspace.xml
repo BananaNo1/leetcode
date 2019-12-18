@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="19-11-120">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07ce64de060e406246a9a67fa1087b7e918b2020" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07ce64de060e406246a9a67fa1087b7e918b2020" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1674d860f5867e989f119c9bdd38c73b12cbf943" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1674d860f5867e989f119c9bdd38c73b12cbf943" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52641674132323bcdff2ff9e470d32b5c2b36424" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52641674132323bcdff2ff9e470d32b5c2b36424" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f5195ffb7c7340bcab5d4630f7ee863d48610b4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f5195ffb7c7340bcab5d4630f7ee863d48610b4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89e78c1a0ed76344dd38115d9563b12c7d21c264" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89e78c1a0ed76344dd38115d9563b12c7d21c264" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/965ed4ab27051d6aa704381e8f81e01d459593b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/965ed4ab27051d6aa704381e8f81e01d459593b9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e52386020a489c1aff7fca16b7ec2fde93d4ae64" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e52386020a489c1aff7fca16b7ec2fde93d4ae64" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec68d45eb72cb84ad0ef614a11c6e1ba12a9c71e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec68d45eb72cb84ad0ef614a11c6e1ba12a9c71e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f06493d926e29f6d6d75742813f380a90c3f0ab1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f06493d926e29f6d6d75742813f380a90c3f0ab1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4510d8a0e18e0ab2adaa76a7011a12d3535fe73" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4510d8a0e18e0ab2adaa76a7011a12d3535fe73" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb9ff27ce5b498b49d19f6f5609624b2ec747ddc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb9ff27ce5b498b49d19f6f5609624b2ec747ddc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/ThreeSumClosest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algro/ThinkJava/FinalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/ThinkJava/FinalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/CountAndSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/CountAndSay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/IsPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/IsValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/IsValid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/LongestCommonPrefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/MergeTwoLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/MergeTwoLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/RemoveElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algro/simple/RomanToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algro/simple/RomanToInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/ThreeSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +20,8 @@
     <session id="-1759514140">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
-          <entry key="project.open.time.1" value="10" />
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.1" value="11" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.26" value="2" />
@@ -50,31 +30,31 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="4" />
-          <entry key="java" value="94" />
+          <entry key="java" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="94" />
+          <entry key="JAVA" value="98" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="20" />
-          <entry key="java" value="17439" />
+          <entry key="java" value="19272" />
           <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17439" />
+          <entry key="JAVA" value="19272" />
           <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
@@ -83,13 +63,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/medium/ThreeSum.java">
+        <entry file="file://$PROJECT_DIR$/src/medium/LetterCombinations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="52" column="22" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="52" selection-end-column="22" />
+            <state relative-caret-position="68">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="docComment;class#ThreeSum#0" />
+                <element signature="docComment;class#LetterCombinations#0" />
               </folding>
             </state>
           </provider>
@@ -151,6 +131,8 @@
         <option value="$PROJECT_DIR$/src/medium/IntToRoman.java" />
         <option value="$PROJECT_DIR$/src/simple/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/medium/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/medium/ThreeSumClosest.java" />
+        <option value="$PROJECT_DIR$/src/medium/LetterCombinations.java" />
       </list>
     </option>
   </component>
@@ -332,6 +314,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -345,11 +328,16 @@
               <item name="algro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,9 +366,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreeSum">
-    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Convert" />
+  <component name="RunManager" selected="Application.LetterCombinations">
+    <configuration name="LetterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.LetterCombinations" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -418,19 +406,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.MyAtoi" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.ThreeSum" />
       <module name="algro" />
@@ -444,20 +419,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.ThreeSumClosest" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Convert" />
-      <item itemvalue="Application.MyAtoi" />
       <item itemvalue="Application.MaxArea" />
       <item itemvalue="Application.LongestCommonPrefix" />
       <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.ThreeSumClosest" />
+      <item itemvalue="Application.LetterCombinations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LetterCombinations" />
+        <item itemvalue="Application.ThreeSumClosest" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.MaxArea" />
-        <item itemvalue="Application.MyAtoi" />
-        <item itemvalue="Application.Convert" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +480,8 @@
       <workItem from="1574674890774" duration="3839000" />
       <workItem from="1574761961376" duration="2186000" />
       <workItem from="1575016001747" duration="3229000" />
-      <workItem from="1576572766932" duration="6210000" />
+      <workItem from="1576572766932" duration="7097000" />
+      <workItem from="1576632711134" duration="18803000" />
     </task>
     <task id="LOCAL-00001" summary="19-11-12">
       <created>1573544813217</created>
@@ -561,13 +550,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107527000" />
+    <option name="totallyTimeSpent" value="127217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.23719676" visible="true" weight="0.15745501" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.23719676" visible="true" weight="0.15938303" />
       <window_info id="Structure" order="1" sideWeight="0.76280326" side_tool="true" weight="0.26542416" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -577,8 +566,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4331984" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4871795" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2834008" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4534413" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -699,6 +688,12 @@
           <line>14</line>
           <properties />
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/LetterCombinations.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1036,9 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="40" selection-end-column="19" />
-          <folding>
-            <element signature="docComment;class#MaxArea#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1046,11 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding>
-            <element signature="docComment;class#IntToRoman#0" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1072,13 +1059,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/ThreeSumClosest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="docComment;class#ThreeSumClosest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="52" column="22" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="52" selection-end-column="22" />
+        <state relative-caret-position="304">
+          <caret line="26" column="50" lean-forward="true" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="docComment;class#ThreeSum#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/LetterCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#LetterCombinations#0" />
           </folding>
         </state>
       </provider>
