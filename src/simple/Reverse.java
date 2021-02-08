@@ -11,18 +11,18 @@ public class Reverse {
 
     public static int reverse(int x) {
         if (x == 0) {
+        return 0;
+    } else if (x > 0) {
+        return rese(x);
+    } else {
+        int result = rese(Math.abs(x));
+        if (result == 0) {
             return 0;
-        } else if (x > 0) {
-            return rese(x);
-        } else {
-            int result = rese(Math.abs(x));
-            if (result == 0) {
-                return 0;
-            }
-            String s = "-" + result;
-            return Integer.parseInt(s);
         }
+        String s = "-" + result;
+        return Integer.parseInt(s);
     }
+}
 
     public static int rese(int x) {
         StringBuffer sb = new StringBuffer(x + "");

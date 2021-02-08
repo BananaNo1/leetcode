@@ -1,5 +1,5 @@
 
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(÷ğ8ßï†ŸÀ-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê¢¤¿ÿÿÿÿÿ
 [
 squid:S106&"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8±ıÁŸÀ-
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê¢¤¿ÿÿÿÿÿ
-jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(÷ğ8ßï†ŸÀ-

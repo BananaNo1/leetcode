@@ -70,3 +70,19 @@ J
 src/medium/IntToRoman.java,9\3\930fc76a5a3beda8a738708b054e044865d57f6b
 H
 src/medium/ThreeSum.java,9\e\9e5766ecbe2fad671e94fe7aabec597c1f757580
+R
+"src/medium/LetterCombinations.java,a\6\a608147de3dee2fe80438ed9019588e22d82a394
+F
+src/simple/TwoSum.java,c\9\c9fdfb89804e79de16a4919b158cdde33b312511
+P
+ src/simple/SortedArrayToBST.java,d\c\dc86457030ac2c7a0463b6d498cf69baa1f2b2b0
+J
+src/simple/IsBalanced.java,4\7\479f4e5b436edfda11465051f20911cba4982d52
+I
+src/nowcoder/beiyou2.java,f\a\faf1957a6dd8b507521ed254fe74e1f3cddabd9a
+I
+src/nowcoder/beiyou5.java,e\2\e26585df7183e3bc1b67bf0ec73eb14c33cdb64e
+I
+src/nowcoder/beiyou6.java,c\3\c3dda594fa21427461386ee3f34e29025a30166b
+I
+src/nowcoder/beiyou7.java,7\1\713c3e33224da43a61444d8da6277472f6ee12eb
