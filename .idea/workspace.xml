@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="19-11-120">
-      <change afterPath="$PROJECT_DIR$/src/simple/s203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s219.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/m189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/S704.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/S977.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,14 +55,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -131,7 +119,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.4" />
+        <option name="mavenHome" value="E:/apache-maven-3.5.4" />
         <option name="userSettingsFile" value="E:\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -151,7 +139,7 @@
     <option name="width" value="1620" />
     <option name="height" value="880" />
   </component>
-  <component name="ProjectId" id="1zOxcdN1tXYRcWiDWcIEVsbHqmn" />
+  <component name="ProjectId" id="1yx7RzeWTSCzZp6C2IpjXhq2nJV" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -304,9 +292,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -358,9 +344,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.s219">
-    <configuration name="s203" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s203" />
+  <component name="RunManager" selected="Application.m189">
+    <configuration name="S704" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.S704" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -372,8 +358,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s205" />
+    <configuration name="S977" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.S977" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -385,12 +371,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s206" />
+    <configuration name="beiyou6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.beiyou6" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simple.*" />
+          <option name="PATTERN" value="nowcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,12 +384,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s217" />
+    <configuration name="beiyou7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.beiyou7" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simple.*" />
+          <option name="PATTERN" value="nowcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,12 +397,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s219" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s219" />
+    <configuration name="m189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.m189" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simple.*" />
+          <option name="PATTERN" value="medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -425,19 +411,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.s203" />
-      <item itemvalue="Application.s205" />
-      <item itemvalue="Application.s206" />
-      <item itemvalue="Application.s217" />
-      <item itemvalue="Application.s219" />
+      <item itemvalue="Application.beiyou6" />
+      <item itemvalue="Application.beiyou7" />
+      <item itemvalue="Application.S704" />
+      <item itemvalue="Application.S977" />
+      <item itemvalue="Application.m189" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.s219" />
-        <item itemvalue="Application.s217" />
-        <item itemvalue="Application.s206" />
-        <item itemvalue="Application.s205" />
-        <item itemvalue="Application.s203" />
+        <item itemvalue="Application.m189" />
+        <item itemvalue="Application.S977" />
+        <item itemvalue="Application.S704" />
+        <item itemvalue="Application.beiyou7" />
+        <item itemvalue="Application.beiyou6" />
       </list>
     </recent_temporary>
   </component>
@@ -763,24 +749,9 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/simple/s191.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/simple/s203.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/simple/s205.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/simple/s219.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="49" />
+          <url>file://$PROJECT_DIR$/src/medium/m189.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
