@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="19-11-120">
-      <change afterPath="$PROJECT_DIR$/src/medium/m695.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/s169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/s190.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/s191.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/m695.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m695.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,6 +332,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="SearchEverywhereHistoryKey" value="java.lang.reflect&#9;PSI&#9;JAVA://java.lang.reflect.ReflectAccess" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -339,59 +347,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.beiyou7">
-    <configuration name="beiyou3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder.beiyou3" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="beiyou4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder.beiyou4" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="beiyou5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder.beiyou5" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="beiyou6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder.beiyou6" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.s190">
     <configuration name="beiyou7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcoder.beiyou7" />
       <module name="algro" />
@@ -405,20 +361,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="m695" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.m695" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s169" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s190" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s191" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s191" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.beiyou3" />
-      <item itemvalue="Application.beiyou4" />
-      <item itemvalue="Application.beiyou5" />
-      <item itemvalue="Application.beiyou6" />
       <item itemvalue="Application.beiyou7" />
+      <item itemvalue="Application.m695" />
+      <item itemvalue="Application.s169" />
+      <item itemvalue="Application.s191" />
+      <item itemvalue="Application.s190" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.s190" />
+        <item itemvalue="Application.s191" />
+        <item itemvalue="Application.s169" />
+        <item itemvalue="Application.m695" />
         <item itemvalue="Application.beiyou7" />
-        <item itemvalue="Application.beiyou6" />
-        <item itemvalue="Application.beiyou5" />
-        <item itemvalue="Application.beiyou4" />
-        <item itemvalue="Application.beiyou3" />
       </list>
     </recent_temporary>
   </component>
@@ -604,6 +612,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="19-11-12" />
@@ -741,6 +750,11 @@
           <url>file://$PROJECT_DIR$/src/nowcoder/beiyou7.java</url>
           <line>59</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simple/s191.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
