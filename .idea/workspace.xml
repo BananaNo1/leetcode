@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="19-11-120">
-      <change beforePath="$PROJECT_DIR$/src/simple/s228.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s228.java" afterDir="false" />
+    <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="workspace">
+      <change afterPath="$PROJECT_DIR$/src/simple/s242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/s257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/s258.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s237.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -351,20 +355,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.m567">
-    <configuration name="m3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.m3" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.s258">
     <configuration name="m567" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.m567" />
       <module name="algro" />
@@ -378,8 +369,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s167" />
+    <configuration name="s237" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s237" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -391,8 +382,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s283" />
+    <configuration name="s242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s242" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -404,8 +395,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s344" />
+    <configuration name="s257" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s257" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s258" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s258" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -418,19 +422,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.s283" />
-      <item itemvalue="Application.s167" />
-      <item itemvalue="Application.s344" />
-      <item itemvalue="Application.m3" />
       <item itemvalue="Application.m567" />
+      <item itemvalue="Application.s237" />
+      <item itemvalue="Application.s242" />
+      <item itemvalue="Application.s257" />
+      <item itemvalue="Application.s258" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.s258" />
+        <item itemvalue="Application.s257" />
+        <item itemvalue="Application.s242" />
+        <item itemvalue="Application.s237" />
         <item itemvalue="Application.m567" />
-        <item itemvalue="Application.m3" />
-        <item itemvalue="Application.s344" />
-        <item itemvalue="Application.s167" />
-        <item itemvalue="Application.s283" />
       </list>
     </recent_temporary>
   </component>
@@ -553,7 +557,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635930898988</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="21/11/03">
+      <created>1635931228507</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1635931228507</updated>
+    </task>
+    <task id="LOCAL-00012" summary="workspace">
+      <created>1635931249348</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1635931249348</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -633,7 +651,9 @@
     <MESSAGE value="19-11-25" />
     <MESSAGE value="19-11-29" />
     <MESSAGE value="19-11-120" />
-    <option name="LAST_COMMIT_MESSAGE" value="19-11-120" />
+    <MESSAGE value="21/11/03" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -783,13 +803,13 @@
           <line>13</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simple/s258.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="nums[2]" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
