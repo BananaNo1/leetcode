@@ -1,5 +1,6 @@
 package simple;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -24,7 +25,7 @@ public class s257 {
         }
     }
 
-
+    // 深度
     public static List<String> binaryTreePaths(TreeNode root) {
         if (root == null)
             return null;
@@ -40,12 +41,37 @@ public class s257 {
             return;
         }
         if (root.left != null) {
-            findPath(root.left, res, s + root.left.val);
+            findPath(root.left, res, s + "->" + root.left.val);
+
         }
         if (root.right != null) {
-            findPath(root.right, res, s + root.right.val);
+            findPath(root.right, res, s + "->" + root.right.val);
         }
     }
+
+    public static List<String> binaryTreePaths1(TreeNode root) {
+        List<String> paths = new ArrayList<>();
+        constructPaths(root, "", paths);
+        return paths;
+    }
+
+    public static void constructPaths(TreeNode root, String path, List<String> paths) {
+        if (root != null) {
+            StringBuffer pathSB = new StringBuffer(path);
+            pathSB.append(root.val);
+            if (root.left == null && root.right == null) {
+                paths.add(pathSB.toString());
+            } else {
+                pathSB.append("->");
+                constructPaths(root.left, pathSB.toString(), paths);
+                constructPaths(root.right, pathSB.toString(), paths);
+            }
+        }
+    }
+
+
+    //广度
+//    public staitc void
 
     public static void main(String[] args) {
         TreeNode root = new TreeNode(1);
