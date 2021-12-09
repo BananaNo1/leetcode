@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="workspace">
-      <change afterPath="$PROJECT_DIR$/src/simple/s326.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s338.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s342.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s345.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s367.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s374.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/s383.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/s387.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/s389.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/s409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/s412.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -356,61 +353,9 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.s383">
-    <configuration name="s257" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s257" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="s303" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s303" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="s326" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s326" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="s342" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple.s342" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.s412">
     <configuration name="s383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simple.s383" />
       <module name="algro" />
@@ -424,20 +369,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="s387" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s387" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s389" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s389" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s409" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s409" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s412" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.s412" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.s257" />
-      <item itemvalue="Application.s303" />
-      <item itemvalue="Application.s326" />
-      <item itemvalue="Application.s342" />
       <item itemvalue="Application.s383" />
+      <item itemvalue="Application.s387" />
+      <item itemvalue="Application.s389" />
+      <item itemvalue="Application.s409" />
+      <item itemvalue="Application.s412" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.s412" />
+        <item itemvalue="Application.s409" />
+        <item itemvalue="Application.s389" />
+        <item itemvalue="Application.s387" />
         <item itemvalue="Application.s383" />
-        <item itemvalue="Application.s342" />
-        <item itemvalue="Application.s326" />
-        <item itemvalue="Application.s303" />
-        <item itemvalue="Application.s257" />
       </list>
     </recent_temporary>
   </component>
