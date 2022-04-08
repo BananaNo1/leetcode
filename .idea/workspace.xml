@@ -5,39 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="workspace">
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/toOffer/JZ7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/toO/t03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/toO/t06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/toO/t09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/toO/t30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toO/t04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toO/t05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toO/t07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/m22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/m24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/m29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/m31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/m33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/m34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/m36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/m39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/m40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/m43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nowcoder/toOffer/JZ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/toOffer/JZ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nowcoder/toOffer/JZ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/toOffer/JZ4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nowcoder/toOffer/JZ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/toOffer/JZ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nowcoder/toOffer/JZ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/toOffer/JZ6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s414.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s414.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s415.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s415.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s448.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s448.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s453.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s453.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s500.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s500.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s501.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s501.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s504.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s504.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s506.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s506.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s507.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s507.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s509.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s509.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s520.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s520.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/s521.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s521.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -383,33 +354,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.startup.tasks" />
   </component>
-  <component name="RunManager" selected="应用程序.JZ3">
-    <configuration name="JZ3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder.toOffer.JZ3" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder.toOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JZ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder.toOffer.JZ4" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder.toOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.t05">
     <configuration name="JZ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcoder.toOffer.JZ5" />
       <module name="algro" />
@@ -436,6 +381,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="t04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t04" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t05" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="t09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="toO.t09" />
       <module name="algro" />
@@ -450,12 +421,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="应用程序.JZ3" />
-      <item itemvalue="应用程序.JZ4" />
-      <item itemvalue="应用程序.JZ5" />
-      <item itemvalue="应用程序.JZ7" />
-      <item itemvalue="应用程序.t09" />
+      <item itemvalue="Application.JZ5" />
+      <item itemvalue="Application.JZ7" />
+      <item itemvalue="Application.t09" />
+      <item itemvalue="Application.t04" />
+      <item itemvalue="Application.t05" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.t05" />
+        <item itemvalue="Application.t04" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -663,6 +640,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="19-11-12" />
@@ -888,6 +866,11 @@
           <url>file://$PROJECT_DIR$/src/nowcoder/toOffer/JZ4.java</url>
           <line>10</line>
           <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/toO/t04.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
