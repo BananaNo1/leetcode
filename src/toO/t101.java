@@ -1,6 +1,6 @@
 package toO;
 
-public class t11 {
+public class t101 {
     /**
      * 跳台阶
      *
