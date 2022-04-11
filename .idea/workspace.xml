@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="workspace">
-      <change afterPath="$PROJECT_DIR$/src/toO/t101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toO/t14_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toO/t15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toO/t16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/toO/t11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo/c2/t1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo/c2/t1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/toO/t12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/toO/t13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,9 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -355,9 +359,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.startup.tasks" />
   </component>
-  <component name="RunManager" selected="Application.t101">
-    <configuration name="t04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toO.t04" />
+  <component name="RunManager" selected="Application.t16">
+    <configuration name="t12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t12" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -369,8 +373,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toO.t05" />
+    <configuration name="t13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t13" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -382,21 +386,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo.c2.t1" />
-      <module name="algro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zuo.c2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="t10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toO.t10" />
+    <configuration name="t14_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t14_1" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -408,8 +399,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toO.t101" />
+    <configuration name="t15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t15" />
+      <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t16" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -422,19 +426,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.t04" />
-      <item itemvalue="Application.t05" />
-      <item itemvalue="Application.t10" />
-      <item itemvalue="Application.t1" />
-      <item itemvalue="Application.t101" />
+      <item itemvalue="Application.t12" />
+      <item itemvalue="Application.t13" />
+      <item itemvalue="Application.t14_1" />
+      <item itemvalue="Application.t15" />
+      <item itemvalue="Application.t16" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.t101" />
-        <item itemvalue="Application.t1" />
-        <item itemvalue="Application.t10" />
-        <item itemvalue="Application.t05" />
-        <item itemvalue="Application.t04" />
+        <item itemvalue="Application.t16" />
+        <item itemvalue="Application.t15" />
+        <item itemvalue="Application.t14_1" />
+        <item itemvalue="Application.t13" />
+        <item itemvalue="Application.t12" />
       </list>
     </recent_temporary>
   </component>
@@ -878,8 +882,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/toO/t10.java</url>
-          <line>18</line>
+          <line>31</line>
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/toO/t11.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/toO/t12.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/toO/t15.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/toO/t16.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/toO/t16.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
