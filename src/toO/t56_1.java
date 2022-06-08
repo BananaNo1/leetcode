@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class t56 {
+public class t56_1 {
 
     public static int[] singleNumbers(int[] nums) {
         if (nums == null || nums.length <= 0) {

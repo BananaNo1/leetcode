@@ -4,37 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="workspace">
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/toO/t40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/toO/t41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4d15fea9-3314-47c8-9bb6-f5516abcbedc" name="Default Changelist" comment="19-11-120">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThinkJava/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkJava/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThinkJava/DaemonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkJava/DaemonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThinkJava/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkJava/EchoClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThinkJava/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkJava/EchoServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThinkJava/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkJava/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThinkJava/ReenterLockCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkJava/ReenterLockCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThinkJava/TSData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkJava/TSData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toO/t39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo/c3/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo/c3/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkJava/inter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkJava/inter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkJava/interCla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkJava/interCla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/m18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/m18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s235.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s392.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s401.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s401.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s404.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s405.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s405.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s434.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s434.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s441.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s441.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s455.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s455.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s459.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s459.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s461.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s461.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s463.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s463.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s482.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s482.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s485.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s485.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s492.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s492.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/s496.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/s496.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/toO/t56_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toO/t56_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +79,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-1.8.0_322-1/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -155,7 +149,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven-3.8.4-bin/apache-maven-3.8.4" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.4-bin/apache-maven-3.8.4" />
         <option name="userSettingsFile" value="E:\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -329,7 +323,7 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -374,17 +368,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575019550673" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot-shopOL-back" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyDatabase-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.startup.tasks" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
-  <component name="RunManager" selected="Application.t41">
-    <configuration name="t38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toO.t38" />
+  <component name="RunManager" selected="Application.t60">
+    <configuration name="t57_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t57_1" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -396,8 +390,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toO.t39" />
+    <configuration name="t58_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t58_1" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -409,8 +403,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toO.t40" />
+    <configuration name="t58_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t58_2" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -422,8 +416,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toO.t41" />
+    <configuration name="t59_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t59_2" />
       <module name="algro" />
       <extension name="coverage">
         <pattern>
@@ -435,27 +429,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="t60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toO.t60" />
       <module name="algro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.t38" />
-      <item itemvalue="Application.t39" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.t40" />
-      <item itemvalue="Application.t41" />
+      <item itemvalue="Application.t57_1" />
+      <item itemvalue="Application.t58_1" />
+      <item itemvalue="Application.t58_2" />
+      <item itemvalue="Application.t59_2" />
+      <item itemvalue="Application.t60" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.t41" />
-        <item itemvalue="Application.t40" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.t39" />
-        <item itemvalue="Application.t38" />
+        <item itemvalue="Application.t60" />
+        <item itemvalue="Application.t59_2" />
+        <item itemvalue="Application.t58_2" />
+        <item itemvalue="Application.t58_1" />
+        <item itemvalue="Application.t57_1" />
       </list>
     </recent_temporary>
   </component>
@@ -666,7 +666,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="19-11-12" />
@@ -929,21 +928,6 @@
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/toO/t19.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/toO/t22.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/toO/t25.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/toO/t37.java</url>
           <line>43</line>
           <option name="timeStamp" value="100" />
@@ -967,6 +951,26 @@
           <url>file://$PROJECT_DIR$/src/toO/t40.java</url>
           <line>24</line>
           <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/toO/t56_1.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/toO/t56_1.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/toO/t58_1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/toO/t60.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="117" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
