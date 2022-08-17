@@ -1,6 +1,8 @@
 package nowcoder.alg;
 
 import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.PriorityQueue;
 
 public class BM5 {
 
@@ -14,7 +16,7 @@ public class BM5 {
         }
     }
 
-    // timeout
+    // todo timeout
     public static ListNode mergeKLists(ArrayList<ListNode> lists) {
         if (lists == null) {
             return null;
@@ -27,13 +29,13 @@ public class BM5 {
         ListNode res = lists.get(0);
         int i = 1;
         while (i < size) {
-            res = Merge(res, lists.get(i));
+            res = mergeTwo(res, lists.get(i));
             i++;
         }
         return res;
     }
 
-    public static ListNode Merge(ListNode list1, ListNode list2) {
+    public static ListNode mergeTwo(ListNode list1, ListNode list2) {
         if (list1 == null) {
             return list2;
         }
@@ -44,13 +46,9 @@ public class BM5 {
         ListNode res = head;
         while (list1 != null && list2 != null) {
             if (list1.val < list2.val) {
-//                ListNode tmp =  new ListNode(list1.val);
-//                head.next = tmp;
                 head.next = list1;
                 list1 = list1.next;
             } else {
-//                ListNode tmp =  new ListNode(list2.val);
-//                head.next = tmp;
                 head.next = list2;
                 list2 = list2.next;
             }
@@ -63,6 +61,44 @@ public class BM5 {
             head.next = list2;
         }
         return res.next;
+    }
+
+
+    public static ListNode mergeKLists1(ArrayList<ListNode> lists) {
+        return merge(lists, 0, lists.size() - 1);
+    }
+
+    public static ListNode merge(ArrayList<ListNode> lists, int l, int r) {
+        if (l == r) {
+            return lists.get(l);
+        }
+        if (l > r) {
+            return null;
+        }
+        int mid = l + (r - l) / 2;
+        return mergeTwo(merge(lists, l, mid), merge(lists, mid + 1, r));
+    }
+
+
+    public static ListNode mergeKLists2(ArrayList<ListNode> lists) {
+        PriorityQueue<ListNode> queue = new PriorityQueue<>(Comparator.comparingInt(v -> v.val));
+
+        for (ListNode node : lists) {
+            if (node != null) {
+                queue.offer(node);
+            }
+        }
+        ListNode dummyHead = new ListNode(0);
+        ListNode tail = dummyHead;
+        while (!queue.isEmpty()) {
+            ListNode minNode = queue.poll();
+            tail.next = minNode;
+            tail = minNode;
+            if (minNode.next != null) {
+                queue.offer(minNode.next);
+            }
+        }
+        return dummyHead.next;
     }
 
     public static void main(String[] args) {
@@ -96,6 +132,7 @@ public class BM5 {
             System.out.print(res.val + "->");
             res = res.next;
         }
+        System.out.println();
 
     }
 }
