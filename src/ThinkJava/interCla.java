@@ -1,2 +1,5 @@
-package ThinkJava;public class interCla {
+package ThinkJava;
+
+public class interCla implements inter {
+
 }
