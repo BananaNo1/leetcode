@@ -4,7 +4,9 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class t60 {
+
+// 60 61
+public class t61 {
 
     public static boolean isStraight(int[] nums) {
         int count = 0;
