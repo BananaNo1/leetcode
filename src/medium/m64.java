@@ -2,7 +2,7 @@ package medium;
 
 public class m64 {
 
-
+    // m1
     public static int minPathSum(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
@@ -26,6 +26,24 @@ public class m64 {
             }
         }
         return dp[m - 1][n - 1];
+    }
+
+    //m2
+    public static int minPathSum1(int[][] grid) {
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
+                if (i == 0 && j == 0) {
+                    continue;
+                } else if (i == 0) {
+                    grid[i][j] = grid[i][j - 1] + grid[i][j];
+                } else if (j == 0) {
+                    grid[i][j] = grid[i - 1][j] + grid[i][j];
+                } else {
+                    grid[i][j] = Math.min(grid[i - 1][j], grid[i][j - 1]) + grid[i][j];
+                }
+            }
+        }
+        return grid[grid.length - 1][grid[0].length - 1];
     }
 
 
